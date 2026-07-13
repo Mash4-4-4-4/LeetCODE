@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
