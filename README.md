@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
