@@ -103,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
