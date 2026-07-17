@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -132,4 +135,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
