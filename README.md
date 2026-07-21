@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
