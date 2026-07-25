@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0051-n-queens) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 ## Counting
