@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0051-n-queens) |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0238-product-of-array-except-self) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
@@ -179,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
