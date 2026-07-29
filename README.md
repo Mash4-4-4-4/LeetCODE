@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
