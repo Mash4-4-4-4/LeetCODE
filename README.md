@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
