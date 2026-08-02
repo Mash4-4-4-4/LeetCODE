@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0018-4sum) |
 | [0283-move-zeroes](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1768-merge-strings-alternately](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
+| [1768-merge-strings-alternately](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
