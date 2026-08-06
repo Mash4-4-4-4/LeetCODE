@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
