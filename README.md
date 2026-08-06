@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1732-find-the-highest-altitude](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1732-find-the-highest-altitude) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
