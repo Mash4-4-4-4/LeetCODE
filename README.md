@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
