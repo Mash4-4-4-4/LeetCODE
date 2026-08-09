@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
