@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0493-reverse-pairs](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0724-find-pivot-index) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0733-flood-fill) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
+| [0542-01-matrix](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0542-01-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0037-sudoku-solver) |
+| [0542-01-matrix](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0994-rotting-oranges) |
 ## Prefix Sum
