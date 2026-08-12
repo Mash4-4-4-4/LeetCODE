@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0229-majority-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0542-01-matrix) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0139-word-break) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1768-merge-strings-alternately) |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1661-average-time-of-process-per-machine](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/1661-average-time-of-process-per-machine) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Mash4-4-4-4/LeetCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
